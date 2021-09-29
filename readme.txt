@@ -1,2 +1,3 @@
 Hello world!
-Welcome
+Welcome to EGCI 313
+From vdcode
